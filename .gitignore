@@ -7,7 +7,10 @@ __pycache__/
 *.log
 *.csv
 
-# IDE (เช่น PyCharm, VSCode)
+# IDE (PyCharm, VSCode)
 .idea/
 .vscode/
 .DS_Store
+
+# Specific logs
+air_quality-log
