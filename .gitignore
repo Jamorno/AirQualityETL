@@ -1,13 +1,13 @@
-# ไฟล์ Python
+# Python
 __pycache__/
 *.pyc
 
-# Database, Logs, Output
+# Output / Database / Logs
 *.db
 *.log
 *.csv
 
-# Editor / IDE
+# IDE (เช่น PyCharm, VSCode)
+.idea/
 .vscode/
-*.swp
 .DS_Store
