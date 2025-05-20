@@ -1,0 +1,13 @@
+# ไฟล์ Python
+__pycache__/
+*.pyc
+
+# Database, Logs, Output
+*.db
+*.log
+*.csv
+
+# Editor / IDE
+.vscode/
+*.swp
+.DS_Store

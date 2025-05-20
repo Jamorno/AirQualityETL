@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "source": "OpenAQ",
+    "location_count": 2
+  },
+  "results": [
+    {
+      "location": "Bangkok - Din Daeng",
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 46.3,
+          "unit": "µg/m³",
+          "lastUpdated": "2025-05-20T04:00:00Z"
+        },
+        {
+          "parameter": "pm10",
+          "value": 58.7,
+          "unit": "µg/m³",
+          "lastUpdated": "2025-05-20T04:00:00Z"
+        }
+      ]
+    },
+    {
+      "location": "Chiang Mai - Suthep",
+      "measurements": [
+        {
+          "parameter": "pm25",
+          "value": 65.1,
+          "unit": "µg/m³",
+          "lastUpdated": "2025-05-20T04:00:00Z"
+        }
+      ]
+    }
+  ]
+}
